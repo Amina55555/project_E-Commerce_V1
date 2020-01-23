@@ -1,0 +1,25 @@
+.filter-user{
+    margin-left: 13px;
+    filter: invert(100%) sepia(33%) saturate(747%) hue-rotate(220deg) brightness(112%) contrast(101%);
+}
+
+.filter-panier{
+    filter: invert(100%) sepia(33%) saturate(747%) hue-rotate(220deg) brightness(112%) contrast(101%);
+}
+
+.label-panier{
+    margin-left: 12px;
+    color: aliceblue;
+}
+
+.label-user{
+    margin-left: 25px;
+    color: aliceblue;
+   
+}
+
+.mainImage{
+    height:155px;
+    width:155px;
+}
+
